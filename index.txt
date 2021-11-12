@@ -3,4 +3,12 @@ hung hung hung
 tran van hung 12
 
 
+<<<<<<< HEAD
 
+=======
+=======
+hung
+>>>>>>> parent of fbdd321 (cap nhap)
+
+12345
+>>>>>>> 4c69933397d681d039ed7cadf873ee06978eed2a

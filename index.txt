@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 hung hung hung
 tran van hung 12
 
 
-=======
-hung
->>>>>>> parent of fbdd321 (cap nhap)
-=======
-hung
->>>>>>> parent of fbdd321 (cap nhap)
+
